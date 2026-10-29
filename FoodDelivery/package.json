@@ -1,0 +1,8 @@
+{
+  "name": "food-delivery-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "npx http-server . -p 8085",
+    "start": "npx http-server . -p 8085"
+  }
+}
